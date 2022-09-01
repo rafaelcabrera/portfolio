@@ -10,12 +10,12 @@ const Hero = () => (
     <HeroAvatar
       title={
         <>
-          Hi there, I'm <GradientText>Ixartz</GradientText> 👋
+          Hi there, I'm <GradientText>Rafael Cabrera</GradientText> 👋
         </>
       }
       description={
         <>
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus{' '}
+          I'm a Fullstack Web Developer Jr. , and Blockchain Developer enthusiast{' '}
           <a className="text-cyan-400 hover:underline" href="/">
             malesuada
           </a>{' '}
