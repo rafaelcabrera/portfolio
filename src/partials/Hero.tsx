@@ -29,16 +29,16 @@ const Hero = () => (
       avatar={
         <img
           className="h-80 w-64"
-          src="/assets/images/avatar.svg"
+          src="/assets/images/twitter-profile-picture.jpg"
           alt="Avatar image"
           loading="lazy"
         />
       }
       socialButtons={
         <>
-          <a href="/">
+          <a href="https://www.linkedin.com/in/rafael-cabrera-penayo/">
             <HeroSocial
-              src="/assets/images/twitter profile picture.jpg"
+              src="/assets/images/linkedin-icon.png"
               alt="Twitter icon"
             />
           </a>
