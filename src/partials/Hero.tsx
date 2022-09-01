@@ -38,7 +38,7 @@ const Hero = () => (
         <>
           <a href="/">
             <HeroSocial
-              src="/assets/images/twitter-icon.png"
+              src="/assets/images/twitter profile picture.jpg"
               alt="Twitter icon"
             />
           </a>
